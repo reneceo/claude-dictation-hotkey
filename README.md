@@ -74,7 +74,7 @@ A nice side effect: you can point this at the *same key* your old tool used, so 
 ```bash
 brew install --cask hammerspoon
 curl -o ~/.hammerspoon/init.lua \
-  https://raw.githubusercontent.com/code22d/claude-dictation-hotkey/main/init.lua
+  https://raw.githubusercontent.com/reneceo/claude-dictation-hotkey/main/init.lua
 open -a Hammerspoon
 ```
 
